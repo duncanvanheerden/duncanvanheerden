@@ -1,5 +1,5 @@
 ### Hi there 👋, I'm Duncan
-#### Self-taught Programmer
+#### Software Engineer
 
 Excited to develop and learn every day, looking forward to working and collaborating with like-minded individuals on projects that bring meaningful experience.
 
