@@ -1,7 +1,7 @@
 <h1 align="center">Hey there 👋, I'm Duncan</h1>
 <hr>
 
-<h3 align="center">Software Engineer</h3>
+<h3 align="center">Software Engineering Student</h3>
 
 Excited to develop and learn every day, looking forward to working and collaborating with like-minded individuals on projects that bring meaningful experience.
 
