@@ -15,4 +15,16 @@
   </a>
 </p>
 
+<h4>Languages and Tools</h4>
 
+<p align="center">
+  <a href="https://www.python.org">
+    <img src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white" alt="Python" />
+  </a>
+  <a href="https://git-scm.com">
+    <img src="https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white" alt="Git" />
+  </a>
+  <a href="https://www.linux.org">
+    <img src="https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=white" alt="Linux" />
+  </a>
+</p>
