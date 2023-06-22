@@ -3,7 +3,7 @@
 
 <h3 align="center">Software Engineering Student at <a href="https://wethinkcode.co.za/">WeThinkCode_</a></h3>
 
-<p align="center">Excited to develop and learn every day, looking forward to working and collaborating to projects that bring meaningful experience.</p>
+<p align="center">Excited to develop and learn every day, looking forward to working and collaborating on projects that bring meaningful experience.</p>
 
 - 🌱 I’m currently learning JAVA, Docker & MySQL
 
@@ -19,12 +19,12 @@
 
 <p>
   <a href="https://www.python.org">
-    <img src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white" alt="Python" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/0/0a/Python.svg" alt="Python" />
   </a>
   <a href="https://git-scm.com">
-    <img src="https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white" alt="Git" />
+    <img src="https://github.githubassets.com/images/icons/emoji/octocat.png" alt="Octocat" width="50" />
   </a>
   <a href="https://www.linux.org">
-    <img src="https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=white" alt="Linux" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Tux.svg/40px-Tux.svg.png" alt="Linux" />
   </a>
 </p>
