@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning JAVA, Docker & MySQL
 
-<h4>Let's Connect</h4>
+<h4>Let's Connect:</h4>
 
 <p>
   <a href="https://www.linkedin.com/in/duncan-van-heerden-6a852a221?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BAKrIhkYrQqmrhf0ORRVMsw%3D%3D">
@@ -15,9 +15,9 @@
   </a>
 </p>
 
-<h4>Languages and Tools</h4>
+<h4>Languages and Tools:</h4>
 
-<p align="center">
+<p>
   <a href="https://www.python.org">
     <img src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white" alt="Python" />
   </a>
