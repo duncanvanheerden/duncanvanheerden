@@ -10,7 +10,7 @@
 <h4>Let's Connect:</h4>
 
 <p>
-  <a href="https://www.linkedin.com/in/duncan-van-heerden-6a852a221?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BAKrIhkYrQqmrhf0ORRVMsw%3D%3D">
+  <a href="https://www.linkedin.com/in/duncan-van-heerden/">
     <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>
   </a>
 </p>
